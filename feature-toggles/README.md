@@ -1,4 +1,4 @@
-[Gpt](https://chatgpt.com/) Descreva pra mim por gentileza a definição e uso de feature toggles sem qualquer detalhe técnico ou menção a software por gentileza?
+[Gpt](https://chatgpt.com/) Descreva pra mim a definição e uso de feature toggles sem qualquer detalhe técnico ou menção a software por gentileza?
 
 ># Feature Toggles
 >
@@ -13,3 +13,4 @@
 >- **Gerenciamento**: Ajuda a gerenciar como e quando as novas funcionalidades são apresentadas aos usuários.
 >
 >No geral, os *feature toggles* aumentam a agilidade e a segurança nas implementações.
+
